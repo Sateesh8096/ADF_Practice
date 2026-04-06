@@ -1,0 +1,9 @@
+{
+	"name": "practiceadfpsk1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8a69f3ac-7706-4177-8881-aa5219396316",
+		"tenantId": "9d1d0cf4-b980-49a7-a641-c86ad40f37e4"
+	}
+}
